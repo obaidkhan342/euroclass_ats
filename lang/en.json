@@ -1,0 +1,23 @@
+{
+  "language": "Language",
+  "next": "Next",
+  "bgColor": "Background Color",
+  "none": "None",
+  "randomColor": "Random color",
+  "fgColor":"Foreground Text",
+  "randomNumber": "Random Number",
+  "delaySec": "Delay (Sec.)",
+  "maxNumber": "Max. Number Range",
+  "runForSec": "Run for (Sec.)",
+  "sound": "Sound",
+  "customSound": "Custom Sound",
+  "beepOne": "Beep when changing color or number",
+  "settings": "Settings",
+  "french": "Français",
+  "english": "English",
+  "chooseBg": "Choose Background Color",
+  "chooseSound": "Choose Sound",
+  "all": "ALL",
+  "selectAll": "Select ALL",
+  "audio": ["Man on","Turn","Away","Close","Block","Switch","Open Out","Left","Right"]
+}

@@ -1,0 +1,24 @@
+{
+  "language": "Langue",
+  "next": "Suivant",
+  "bgColor": "Couleur de fond",
+  "none": "Aucune",
+  "randomColor": "Couleur aléatoire",
+  "fgColor": "Couleur du texte",
+  "randomNumber": "Numéro aléatoire",
+  "delaySec":"Délais (sec.)",
+  "maxNumber": "Plage de nombres",
+  "runForSec": "En fonction pour (sec.)",
+  "sound": "Son",
+  "customSound": "Son personnalisé",
+  "beepOne":"Beep lorsque la couleur ou le nombre changent",
+  "settings": "Paramètres",
+  "french": "Français",
+  "english": "English",
+  "chooseBg": "Choisissez la couleur d'arrière-plan",
+  "chooseSound": "Choisissez son",
+  "all": "toute",
+  "selectAll": "Tout sélectionner",
+
+  "audio": ["Marquage","Tourne","Éloigne toi","Ferme","Bloque","Change","Ouvre","Gauche","Droite"]
+}

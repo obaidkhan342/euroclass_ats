@@ -1,0 +1,64 @@
+PODS:
+  - devicelocale (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - shared_preferences (0.0.1):
+    - Flutter
+  - shared_preferences_macos (0.0.1):
+    - Flutter
+  - shared_preferences_web (0.0.1):
+    - Flutter
+  - soundpool (0.0.1):
+    - Flutter
+  - soundpool_web (0.0.1):
+    - Flutter
+  - vibration (1.2.4):
+    - Flutter
+  - wakelock (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - devicelocale (from `.symlinks/plugins/devicelocale/ios`)
+  - Flutter (from `Flutter`)
+  - shared_preferences (from `.symlinks/plugins/shared_preferences/ios`)
+  - shared_preferences_macos (from `.symlinks/plugins/shared_preferences_macos/ios`)
+  - shared_preferences_web (from `.symlinks/plugins/shared_preferences_web/ios`)
+  - soundpool (from `.symlinks/plugins/soundpool/ios`)
+  - soundpool_web (from `.symlinks/plugins/soundpool_web/ios`)
+  - vibration (from `.symlinks/plugins/vibration/ios`)
+  - wakelock (from `.symlinks/plugins/wakelock/ios`)
+
+EXTERNAL SOURCES:
+  devicelocale:
+    :path: ".symlinks/plugins/devicelocale/ios"
+  Flutter:
+    :path: Flutter
+  shared_preferences:
+    :path: ".symlinks/plugins/shared_preferences/ios"
+  shared_preferences_macos:
+    :path: ".symlinks/plugins/shared_preferences_macos/ios"
+  shared_preferences_web:
+    :path: ".symlinks/plugins/shared_preferences_web/ios"
+  soundpool:
+    :path: ".symlinks/plugins/soundpool/ios"
+  soundpool_web:
+    :path: ".symlinks/plugins/soundpool_web/ios"
+  vibration:
+    :path: ".symlinks/plugins/vibration/ios"
+  wakelock:
+    :path: ".symlinks/plugins/wakelock/ios"
+
+SPEC CHECKSUMS:
+  devicelocale: feebbe5e7a30adb8c4f83185de1b50ff19b44f00
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  shared_preferences: 430726339841afefe5142b9c1f50cb6bd7793e01
+  shared_preferences_macos: f3f29b71ccbb56bf40c9dd6396c9acf15e214087
+  shared_preferences_web: 141cce0c3ed1a1c5bf2a0e44f52d31eeb66e5ea9
+  soundpool: c7f4422ca206e77f8900ed3c4ee6a6ff5a0e38a9
+  soundpool_web: bd713866c1993a5bfd40bfc875e7ebb30cbe8342
+  vibration: f0c5bb486671fb81e973bfb451d89f8efd07c9c9
+  wakelock: 0d4a70faf8950410735e3f61fb15d517c8a6efc4
+
+PODFILE CHECKSUM: 1b66dae606f75376c5f2135a8290850eeb09ae83
+
+COCOAPODS: 1.8.4
